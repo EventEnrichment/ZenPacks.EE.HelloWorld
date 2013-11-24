@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.EE.HelloWorld = ZenPacks.EE.HelloWorld
+

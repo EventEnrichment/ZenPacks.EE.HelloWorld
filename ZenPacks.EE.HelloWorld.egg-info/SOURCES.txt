@@ -1,0 +1,15 @@
+MANIFEST.in
+setup.py
+ZenPacks/__init__.py
+ZenPacks.EE.HelloWorld.egg-info/PKG-INFO
+ZenPacks.EE.HelloWorld.egg-info/SOURCES.txt
+ZenPacks.EE.HelloWorld.egg-info/dependency_links.txt
+ZenPacks.EE.HelloWorld.egg-info/entry_points.txt
+ZenPacks.EE.HelloWorld.egg-info/namespace_packages.txt
+ZenPacks.EE.HelloWorld.egg-info/not-zip-safe
+ZenPacks.EE.HelloWorld.egg-info/top_level.txt
+ZenPacks/EE/__init__.py
+ZenPacks/EE/HelloWorld/__init__.py
+ZenPacks/EE/HelloWorld/configure.zcml
+ZenPacks/EE/HelloWorld/utils.py
+ZenPacks/EE/HelloWorld/objects/objects.xml
