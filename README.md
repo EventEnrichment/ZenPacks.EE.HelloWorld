@@ -40,7 +40,7 @@ After modifying files, return to the top level directory and create the egg file
 
 Issue the following command in the top level directory of the ZenPack:
 
-python2.7 setup.py bdist_egg
+<pre>python2.7 setup.py bdist_egg</pre>
 
 Now you can start back up at step 1) above. :)
 
