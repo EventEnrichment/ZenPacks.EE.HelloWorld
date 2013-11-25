@@ -36,8 +36,9 @@ INFO:zen.ZenPackCMD:installing zenpack ZenPacks.EE.HelloWorld; launching process
    LOG.info('Hello World!\n')
 </pre>
 
-To create an egg file issue the following command in the top level directory of 
-the ZenPack:
+After modifying files, return to the top level directory and create the egg file.
+
+Issue the following command in the top level directory of the ZenPack:
 
 python2.7 setup.py bdist_egg
 
