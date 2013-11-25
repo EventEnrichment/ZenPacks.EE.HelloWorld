@@ -7,18 +7,15 @@ Installation instructions:
    zenpack --install /clone_location/ZenPacks.EE.HelloWorld/dist/ZenPacks.EE.HelloWorld-0.0.4-py2.7.egg
 
    You should see the following:
-
-   INFO:zen.ZenPackCMD:installing zenpack ZenPacks.EE.HelloWorld; launching process
-   2013-11-25 10:45:43,459 INFO zen.ZPLoader: Loading /opt/zenoss/ZenPacks/ZenPacks.EE.
-   HelloWorld-0.0.4-py2.7.egg/ZenPacks/EE/HelloWorld/objects/objects.xml
-   2013-11-25 10:45:43,460 INFO zen.AddToPack: End loading objects
-   2013-11-25 10:45:43,460 INFO zen.AddToPack: Processing links
-   2013-11-25 10:45:43,491 INFO zen.AddToPack: Loaded 0 objects into the ZODB database
-   2013-11-25 10:45:43,523 INFO zen.HookReportLoader: Loading reports from /opt/zenoss/
-   ZenPacks/ZenPacks.EE.HelloWorld-0.0.4-py2.7.egg/ZenPacks/EE/HelloWorld/reports
-   2013-11-25 10:45:43,609 INFO zen.ZenPacks.EE.HelloWorld: Adding ZenPacks.EE.HelloWor
-   ld relationships to existing devices
-
+<pre>
+INFO:zen.ZenPackCMD:installing zenpack ZenPacks.EE.HelloWorld; launching process
+2013-11-25 10:45:43,459 INFO zen.ZPLoader: Loading /opt/zenoss/ZenPacks/ZenPacks.EE.HelloWorld-0.0.4-py2.7.egg/ZenPacks/EE/HelloWorld/objects/objects.xml
+2013-11-25 10:45:43,460 INFO zen.AddToPack: End loading objects
+2013-11-25 10:45:43,460 INFO zen.AddToPack: Processing links
+2013-11-25 10:45:43,491 INFO zen.AddToPack: Loaded 0 objects into the ZODB database
+2013-11-25 10:45:43,523 INFO zen.HookReportLoader: Loading reports from /opt/zenoss/ZenPacks/ZenPacks.EE.HelloWorld-0.0.4-py2.7.egg/ZenPacks/EE/HelloWorld/reports
+2013-11-25 10:45:43,609 INFO zen.ZenPacks.EE.HelloWorld: Adding ZenPacks.EE.HelloWorld relationships to existing devices
+</pre>
 3) restart Zope
    zopectl restart 
 
