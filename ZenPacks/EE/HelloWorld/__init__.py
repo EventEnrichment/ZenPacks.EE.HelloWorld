@@ -25,7 +25,7 @@ from Products.ZenUtils.Utils import unused, zenPath
 unused(Globals)
 
 # Test Logging
-LOG.info('Hello World! Mike, go to town. :)\n')
+LOG.info('Hello World!\n')
 
 
 skinsDir = os.path.join(os.path.dirname(__file__), 'skins')
