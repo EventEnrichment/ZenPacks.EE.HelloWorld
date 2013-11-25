@@ -26,10 +26,10 @@ INFO:zen.ZenPackCMD:installing zenpack ZenPacks.EE.HelloWorld; launching process
 5) The code for this Hello World is located in the 
    ZenPacks.EE.HelloWorld/ZenPacks/EE/HelloWorld/underscore-underscore-init-underscore-underscore.py" file:
 
+<pre>
    # Test Logging
    LOG.info('Hello World!\n')
-
-That's it.
+</pre>
 
 To create an egg file issue the following command in the top level directory of 
 the ZenPack:
