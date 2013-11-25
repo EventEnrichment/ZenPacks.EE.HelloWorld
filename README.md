@@ -16,6 +16,7 @@ INFO:zen.ZenPackCMD:installing zenpack ZenPacks.EE.HelloWorld; launching process
 2013-11-25 10:45:43,523 INFO zen.HookReportLoader: Loading reports from /opt/zenoss/ZenPacks/ZenPacks.EE.HelloWorld-0.0.4-py2.7.egg/ZenPacks/EE/HelloWorld/reports
 2013-11-25 10:45:43,609 INFO zen.ZenPacks.EE.HelloWorld: Adding ZenPacks.EE.HelloWorld relationships to existing devices
 </pre>
+
 3) restart Zope
    zopectl restart 
 
@@ -23,7 +24,7 @@ INFO:zen.ZenPackCMD:installing zenpack ZenPacks.EE.HelloWorld; launching process
    "2013-11-25T10:46:04 INFO zen.ZenPacks.EE.HelloWorld Hello World!"
 
 5) The code for this Hello World is located in the 
-   ZenPacks.EE.HelloWorld/ZenPacks/EE/HelloWorld/__init__.py file
+   <pre>ZenPacks.EE.HelloWorld/ZenPacks/EE/HelloWorld/__init__.py</pre> file
 
    # Test Logging
    LOG.info('Hello World!\n')
