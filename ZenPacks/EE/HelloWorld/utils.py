@@ -22,11 +22,8 @@ from Products.ZenUtils.guid.interfaces import IGlobalIdentifier
 import functools
 import importlib
 
-#import logging
-#LOG = logging.getLogger('ZenPacks.EE.HelloWorld.utils')
-
-logfile = open('/opt/zenoss/log/hello_world.log', 'a')
-logfile.write('Hello World! Mike, go to town. :)') 
+import logging
+LOG = logging.getLogger('ZenPacks.EE.HelloWorld.utils')
 
 def add_local_lib_path():
     '''

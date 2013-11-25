@@ -2,7 +2,7 @@
 # or saved.  Do not modify them directly here.
 # NB: PACKAGES is deprecated
 NAME = "ZenPacks.EE.HelloWorld"
-VERSION = "0.0.4"
+VERSION = "0.0.5"
 AUTHOR = "ORML"
 LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = [u'ZenPacks', u'ZenPacks.EE']

@@ -11,9 +11,7 @@ ZenPacks.EE.HelloWorld.egg-info/not-zip-safe
 ZenPacks.EE.HelloWorld.egg-info/top_level.txt
 ZenPacks/EE/__init__.py
 ZenPacks/EE/__init__.pyc
-ZenPacks/EE/HelloWorld/#logger.py#
 ZenPacks/EE/HelloWorld/__init__.py
 ZenPacks/EE/HelloWorld/configure.zcml
-ZenPacks/EE/HelloWorld/logger.py
 ZenPacks/EE/HelloWorld/utils.py
 ZenPacks/EE/HelloWorld/objects/objects.xml
