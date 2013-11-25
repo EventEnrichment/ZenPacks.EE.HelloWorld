@@ -26,7 +26,7 @@ INFO:zen.ZenPackCMD:installing zenpack ZenPacks.EE.HelloWorld; launching process
 </pre>
 
 5) The code for this Hello World is located in the 
-   ZenPacks.EE.HelloWorld/ZenPacks/EE/HelloWorld/underscore-underscore-init-underscore-underscore.py" file:
+   ZenPacks.EE.HelloWorld/ZenPacks/EE/HelloWorld/underscore-underscore-init-underscore-underscore.py file:
 
 <pre>
    # Test Logging
