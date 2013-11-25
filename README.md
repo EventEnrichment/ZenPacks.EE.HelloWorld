@@ -21,7 +21,9 @@ INFO:zen.ZenPackCMD:installing zenpack ZenPacks.EE.HelloWorld; launching process
    zopectl restart 
 
 4) You will see something like this in the event.log file:
-   "2013-11-25T10:46:04 INFO zen.ZenPacks.EE.HelloWorld Hello World!"
+<pre>   
+2013-11-25T10:46:04 INFO zen.ZenPacks.EE.HelloWorld Hello World!
+</pre>
 
 5) The code for this Hello World is located in the 
    ZenPacks.EE.HelloWorld/ZenPacks/EE/HelloWorld/underscore-underscore-init-underscore-underscore.py" file:
