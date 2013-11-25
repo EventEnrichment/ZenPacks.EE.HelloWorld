@@ -24,7 +24,7 @@ INFO:zen.ZenPackCMD:installing zenpack ZenPacks.EE.HelloWorld; launching process
    "2013-11-25T10:46:04 INFO zen.ZenPacks.EE.HelloWorld Hello World!"
 
 5) The code for this Hello World is located in the 
-   <pre>ZenPacks.EE.HelloWorld/ZenPacks/EE/HelloWorld/__init__.py</pre> file
+   ZenPacks.EE.HelloWorld/ZenPacks/EE/HelloWorld/"__init__.py" file
 
    # Test Logging
    LOG.info('Hello World!\n')
