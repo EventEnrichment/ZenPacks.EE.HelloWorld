@@ -25,6 +25,8 @@ from Products.ZenUtils.Utils import unused, zenPath
 unused(Globals)
 
 # Test Logging
+#logfile = open('/opt/zenoss/log/hello_world.log', 'a')
+#logfile.write('Hello World! Mike, go to town. :)\n') 
 LOG.info('Hello World! Mike, go to town. :)\n')
 
 
