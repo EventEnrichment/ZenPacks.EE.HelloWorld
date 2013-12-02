@@ -4,7 +4,7 @@ Installation instructions:
 
 1) tail -f /opt/zenoss/log/event.log
 
-2) As the zenoss user (sudo bash ; su - zenoss) install the ZenPack (on eyes-02 for now)
+2) As the zenoss user (sudo bash ; su - zenoss) install the ZenPack 
 
 <pre>   zenpack --install /clone_location/ZenPacks.EE.HelloWorld/dist/ZenPacks.EE.HelloWorld-0.0.4-py2.7.egg
 </pre>
